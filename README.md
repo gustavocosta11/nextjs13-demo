@@ -1,1 +1,0 @@
-# nextjs13-demo
